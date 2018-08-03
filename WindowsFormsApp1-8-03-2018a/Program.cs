@@ -14,6 +14,7 @@ namespace WindowsFormsApp1_8_03_2018a
         [STAThread]
         static void Main()
         {
+            // testing here 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
