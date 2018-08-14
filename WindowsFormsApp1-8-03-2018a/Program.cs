@@ -17,6 +17,7 @@ namespace WindowsFormsApp1_8_03_2018a
             // testing here 
             // added this line here from Github online
             // added this line for the fix
+            // added here on 8/13/2018
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
